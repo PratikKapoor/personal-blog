@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  pathPrefix: '/Users/prkapoor/personal_workspace/personal-blog',
+  title: 'Blog by Pratik Kapoor',
+  subtitle: 'All things code and solder.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,11 +25,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Pratik Kapoor',
+    photo: '/display-photo.jpg',
+    bio: 'All things code and solder.',
     contacts: {
-      email: '',
+      email: 'pratikkapoor1105@gmail.com',
       facebook: '#',
       telegram: '#',
       twitter: '#',
