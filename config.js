@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Pratik Kapoor',
-    photo: '/display-photo.jpg',
+    photo: '/photo.jpg',
     bio: 'All things code and solder.',
     contacts: {
       email: 'pratikkapoor1105@gmail.com',
