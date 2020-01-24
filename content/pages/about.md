@@ -8,6 +8,6 @@ Hello! My name is Pratik Kapoor. I’m a Manipal survivor. I am an SDE at Amazon
  
 When not at work, I spend my time in the gym lifting things and flying FPV racing drones (Check out my IG - @propwash_fpv).
 
-You can find out more about me on [LinkedIn](https://www.linkedin.com/in/pratik-kapoor-ab636687/).
+Currently, I am based out of Bangalore, India. You can find out more about me on [LinkedIn](https://www.linkedin.com/in/pratik-kapoor-ab636687/).
 
 This is my personal blog and all thoughts and opinions published here are my own.
