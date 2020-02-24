@@ -9,7 +9,7 @@ tags:
   - "Introduction"
   - "Blog"
   - "First-Post"
-description: "My thoughts and ramblings on a personal blog as a software developer."
+description: "An introduction to a personal blog as a software developer."
 socialImage: "/media/intro-pic.jpg"
 ---
 

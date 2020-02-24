@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/Users/prkapoor/personal_workspace/personal-blog',
   title: 'Blog by Pratik Kapoor',
-  subtitle: 'All things code and solder.',
+  subtitle: 'My thoughts and ramblings on all things code and solder.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Pratik Kapoor',
     photo: '/photo.jpg',
-    bio: 'All things code and solder.',
+    bio: 'My thoughts and ramblings on all things code and solder.',
     contacts: {
       email: 'pratikkapoor1105@gmail.com',
       facebook: '#',

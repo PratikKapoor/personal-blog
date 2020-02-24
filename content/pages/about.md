@@ -1,7 +1,7 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/intro-pic.jpg"
 ---
 
 Hello! My name is Pratik Kapoor. I’m a Manipal survivor. I am a 24 year old who lives is Bangalore, India. I am an SDE at Amazon where my work directly contributes to empowering the next billion users to harness the power of the web. I’m a stable genius. Everybody loves me. I’m ahead in the polls. #Winner
@@ -13,3 +13,5 @@ I am a builder at heart, which has manifested itself as me becoming a software d
 You can find out more about me on [LinkedIn](https://www.linkedin.com/in/pratik-kapoor-ab636687/).
 
 This is my personal blog and all thoughts and opinions published here are my own.
+
+![picture.jpg](/media/intro-pic.jpg)
